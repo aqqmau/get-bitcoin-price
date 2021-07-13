@@ -1,0 +1,22 @@
+{
+  "name": "bitcoin-price-m",
+  "version": "1.0.0",
+  "description": "simple package to get btc price using free API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "btc",
+    "bitcoin",
+    "cryptocurrency"
+  ],
+  "author": "Mauricio Aquino <maudevacc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "bin": {
+    "btc": "./bin/global.js"
+  }
+}
