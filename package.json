@@ -1,6 +1,6 @@
 {
   "name": "bitcoin-price-m",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple package to get btc price using free API",
   "main": "index.js",
   "scripts": {
