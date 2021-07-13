@@ -17,6 +17,15 @@
     "xmlhttprequest": "^1.8.0"
   },
   "bin": {
-    "btc": "./bin/global.js"
-  }
+    "btc": "bin/global.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maudeaquino/get-bitcoin-price.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maudeaquino/get-bitcoin-price/issues"
+  },
+  "homepage": "https://github.com/maudeaquino/get-bitcoin-price#readme"
 }
