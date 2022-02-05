@@ -3,6 +3,7 @@
 Simple package to get bitcoin price using free API
 
 ## Install
+You must have installed npm
 
 ```npm
 npm install -g bitcoin-price-m
