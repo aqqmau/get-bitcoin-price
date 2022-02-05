@@ -1,6 +1,6 @@
 # bitcoin-price-m
 
-simple package to get btc price using free API
+Simple package to get bitcoin price using free API
 
 ## Install
 
