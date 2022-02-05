@@ -8,6 +8,7 @@ async function getBitcoinPrice() {
         console.log('Precio fecha: ' + dataResponse.time.updated);
         console.log('Moneda: ' + dataResponse.chartName);
         console.log('-----------------------');
+        console.log('These are the prices')
         console.log('Precio ' + dataResponse.bpi.USD.code  + ': ' + dataResponse.bpi.USD.rate);
         console.log('Precio ' + dataResponse.bpi.EUR.code  + ': ' + dataResponse.bpi.EUR.rate);
         console.log('Precio ' + dataResponse.bpi.GBP.code  + ': ' + dataResponse.bpi.GBP.rate);
